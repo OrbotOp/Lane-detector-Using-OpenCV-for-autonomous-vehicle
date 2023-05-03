@@ -1,17 +1,16 @@
+# File Strcuture
 
-----------------------------------------------------------------------------------------
-File Strcuture
-
-main.cpp
-CMakeLists.txt
+- main.cpp
+- CMakeLists.txt
 
 ---------------------------------------------------------------------------------------
-To run program use following commands on ternimal
-
+# To run program use following commands on ternimal
+```sh
 ~ cmake .
 ~ make
 ~ cd bin/
 ~ ./main path_to_img
+```
 
 ----------------------------------------------------------------------------------------
 
