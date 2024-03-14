@@ -3,7 +3,6 @@ Autonomous Driving Car is one of the most disruptive innovations in AI. One of t
 	
 ## Steps to Implement Road Lane Detection
 
-![Pipeline](images/Pipeline.png)
 
 	
 - **Remove Noise :**
